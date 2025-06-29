@@ -1,12 +1,4 @@
 {
   "_base": "https://raw.githubusercontent.com/OscarBeamish/samples/main/",
-  "spilltab": "spilltab/spilltab.wav",
-  "cocaina": "cocaina/cocaina.wav",
   "heartbeat": ["heartbeat/heartbeat1.wav", "heartbeat/heartbeat2.wav"],
-  "trial": "trial/forget.wav",
-  "overgame": "overgame/overgame.wav",
-  "giveittome": ["giveittome/ah.wav", "giveittome/chorus.wav"],
-  "ecotone": "ecotone/ecotone.wav",
-  "technologic": "technologic/technologic_vox.wav",
-  "forget": "forget/forget.wav"
 }
