@@ -4,15 +4,15 @@ A small collection of audio samples I use in my Strudel patterns. Nothing fancy,
 
 ## What's In Here
 
-- **heartbeat/** - Recorded some heartbeat sounds, they work well for organic rhythms
-- **nanou2/** - Some atmospheric intro thing I found useful
+- **heartbeat/** - Stolen sample from DJDave for learning
+- **nanou2/** - Aphex twin sample
 - More stuff as I add it
 
 ## Using These Samples
 
 ```javascript
 // Load the samples
-samples('github:oscarbeamish/samples')
+samples("github:oscarbeamish/samples")
 
 // Use them in patterns
 s("heartbeat:0").slow(2)
@@ -20,6 +20,7 @@ s("heartbeat:1").chop(8).rev()
 ```
 
 The `strudel.json` file tells Strudel where everything is:
+
 ```json
 {
   "_base": "https://raw.githubusercontent.com/oscarbeamish/samples/main/",
@@ -31,15 +32,16 @@ The `strudel.json` file tells Strudel where everything is:
 ## Sample Processing Ideas
 
 The heartbeat samples work well with:
+
 ```javascript
 s("heartbeat:0")
-  .slice(8, "0 3 2 7")      // Chop it up
-  .speed("<0.5 1 2>")       // Vary speed
-  .lpf(1000)                // Filter
+  .slice(8, "0 3 2 7") // Chop it up
+  .speed("<0.5 1 2>") // Vary speed
+  .lpf(1000) // Filter
 
 s("heartbeat:1")
-  .chop(32)                 // Granular
-  .room(0.8)                // Spacey
+  .chop(32) // Granular
+  .room(0.8) // Spacey
 ```
 
 ## File Formats
