@@ -1,4 +1,4 @@
 {
-  "_base": "https://raw.githubusercontent.com/OscarBeamish/samples/main/",
-  "heartbeat": ["heartbeat/heartbeat1.wav", "heartbeat/heartbeat2.wav"],
+  "_base": "https://raw.githubusercontent.com/oscarbeamish/samples/main/",
+  "heartbeat": ["heartbeat/heartbeat1.wav", "heartbeat/heartbeat2.wav"]
 }
