@@ -1,5 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/oscarbeamish/samples/main/",
   "heartbeat": ["heartbeat/heartbeat1.wav", "heartbeat/heartbeat2.wav"],
-  "nanou2": ["nanou2/intro.wav"],
+  "nanou2": ["nanou2/intro.wav"]
 }
