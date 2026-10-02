@@ -96,9 +96,15 @@
     "practice/shella/02_00m35.4s.wav"
   ],
   "shella_flow": [
-    "practice/shella/flow.mp3"
+    "practice/shella/flow.wav"
   ],
   "shella_pullup": [
+    "practice/shella/pullup.wav"
+  ],
+  "shella_flow_mp3": [
+    "practice/shella/flow.mp3"
+  ],
+  "shella_pullup_mp3": [
     "practice/shella/pullup.mp3"
   ]
 }
