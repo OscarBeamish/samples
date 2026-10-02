@@ -118,5 +118,17 @@
  ],
  "agony_d": [
   "practice/yunglean/agony_d.wav"
+ ],
+ "sk_intro": [
+  "practice/skepta/sk_intro.wav"
+ ],
+ "sk_hook": [
+  "practice/skepta/sk_hook.wav"
+ ],
+ "sk_verse1": [
+  "practice/skepta/sk_verse1.wav"
+ ],
+ "sk_verse3": [
+  "practice/skepta/sk_verse3.wav"
  ]
 }
