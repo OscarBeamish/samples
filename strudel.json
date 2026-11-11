@@ -305,5 +305,17 @@
   "kits/xkick/experimental_varied_1.wav",
   "kits/xkick/videogame_kick_1.wav",
   "kits/xkick/videogame_kick_2.wav"
+ ],
+ "elk_verse": [
+  "practice/loukeman/elk_verse.wav"
+ ],
+ "elk_drop": [
+  "practice/loukeman/elk_drop.wav"
+ ],
+ "elk_calm": [
+  "practice/loukeman/elk_calm.wav"
+ ],
+ "elk_outro": [
+  "practice/loukeman/elk_outro.wav"
  ]
 }
