@@ -29,5 +29,8 @@ On a 4x4 beat a long kick overlaps the next one: use `.clip(.95).release(.03)` s
 ## Not included (licence unclear)
 `smpldsnds/drum-machines` (LinnDrum LM-2, Drumtraks, CR-8000, MFB-512…) and the "Drum Abuse" archives say "public domain" without naming a source, so they stay out of this public repo.
 
-## gabber — synthesised hardcore kicks matched to a record (ours, CC0)
-`gkick:0–2` (`penta1–3`): 300 ms one-shots synthesised in Python (`strudel-studio/tools/kick_match.py`): a sine sweeping ~250 → 50 Hz over 45 ms, soft/diode drive, **then** a low-pass at ~3 kHz and a resonant bump at 90–110 Hz (the distortion-then-EQ chain Strudel can't do), chosen from 600 candidates by log-mel distance to one isolated kick from Pentagramm's drum stem. No sample audio inside: made from a sine and noise. Band shares ≈ 36 % sub / 52 % at 60–150 Hz / 10 % at 150–400, nothing above.
+## gabber — synthesised hardcore kicks matched to the records (ours, CC0)
+`gkick:0–2`, 300–450 ms one-shots synthesised in Python (`strudel-studio/tools/kick_match.py`): a sine with an exponential pitch sweep, a click, soft/diode drive, **then** a low-pass and a resonant bump (the distortion-then-EQ chain Strudel can't do), chosen from 1200–1500 candidates by log-mel distance to isolated kicks cut from the records' drum stems. No sample audio inside.
+- `gkick:0` (`penta1`): matched to Pentagramm + 9mm + Gewalt Gewalt together: 839 → 56 Hz over 26 ms (the records' high "tongue"), body A1, 435 ms, diode drive 5.9, low-pass 1.7 kHz. One-shot 75 % sub / 16 % at 60–150.
+- `gkick:1` (`penta2`): matched to Pentagramm alone: 97 → 56 Hz, diode 5.2, low-pass 1.1 kHz, 300 ms. 47 / 48 / 5.
+- `gkick:2` (`penta3`): the three-record search's #3: 708 → 48 Hz over 35 ms, body 48 Hz, 352 ms, diode 3, low-pass 970 Hz. 77 / 20 / 3.
