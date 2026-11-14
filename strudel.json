@@ -1,321 +1,327 @@
 {
- "_base": "https://raw.githubusercontent.com/oscarbeamish/samples/main/",
- "heartbeat": [
-  "heartbeat/heartbeat1.wav",
-  "heartbeat/heartbeat2.wav"
- ],
- "nanou2": [
-  "nanou2/intro.wav"
- ],
- "break": [
-  "breaks/break01.mp3",
-  "breaks/break02.mp3",
-  "breaks/break03.mp3",
-  "breaks/break04.mp3",
-  "breaks/break05.mp3",
-  "breaks/break06.mp3",
-  "breaks/break07.mp3",
-  "breaks/break08.mp3",
-  "breaks/break09.mp3",
-  "breaks/break10.mp3",
-  "breaks/break11.mp3",
-  "breaks/break12.mp3",
-  "breaks/break13.mp3",
-  "breaks/break14.mp3",
-  "breaks/break15.mp3",
-  "breaks/break16.mp3",
-  "breaks/break17.mp3",
-  "breaks/break18.mp3",
-  "breaks/break19.mp3",
-  "breaks/break20.mp3",
-  "breaks/break21.mp3",
-  "breaks/break22.mp3",
-  "breaks/break23.mp3",
-  "breaks/break24.mp3",
-  "breaks/break25.mp3",
-  "breaks/break26.mp3",
-  "breaks/break27.mp3",
-  "breaks/break28.mp3",
-  "breaks/break29.mp3",
-  "breaks/break30.mp3",
-  "breaks/break31.mp3",
-  "breaks/break32.mp3",
-  "breaks/break33.mp3",
-  "breaks/break34.mp3",
-  "breaks/break35.mp3",
-  "breaks/break36.mp3",
-  "breaks/break37.mp3",
-  "breaks/break38.mp3",
-  "breaks/break39.mp3",
-  "breaks/break40.mp3",
-  "breaks/break41.mp3",
-  "breaks/break42.mp3",
-  "breaks/break43.mp3",
-  "breaks/break44.mp3",
-  "breaks/break45.mp3",
-  "breaks/break46.mp3",
-  "breaks/break47.mp3",
-  "breaks/break48.mp3",
-  "breaks/break49.mp3",
-  "breaks/break50.mp3",
-  "breaks/break51.mp3",
-  "breaks/break52.mp3",
-  "breaks/break53.mp3",
-  "breaks/break54.mp3",
-  "breaks/break55.mp3",
-  "breaks/break56.mp3",
-  "breaks/break57.mp3",
-  "breaks/break58.mp3",
-  "breaks/break59.mp3",
-  "breaks/break60.mp3",
-  "breaks/break61.mp3",
-  "breaks/break62.mp3",
-  "breaks/break63.mp3",
-  "breaks/break64.mp3",
-  "breaks/break65.mp3",
-  "breaks/break66.mp3",
-  "breaks/break67.mp3",
-  "breaks/break68.mp3",
-  "breaks/break69.mp3",
-  "breaks/break70.mp3",
-  "breaks/break71.mp3"
- ],
- "tops": [
-  "drums/rolling_tops.mp3",
-  "drums/swung_tops.mp3"
- ],
- "stab": [
-  "fx/stab.mp3"
- ],
- "atmosphere": [
-  "fx/atmosphere.mp3"
- ],
- "shella": [
-  "practice/shella/00_00m18.9s.wav",
-  "practice/shella/01_00m27.0s.wav",
-  "practice/shella/02_00m35.4s.wav"
- ],
- "shella_flow": [
-  "practice/shella/flow.wav"
- ],
- "shella_pullup": [
-  "practice/shella/pullup.wav"
- ],
- "shella_flow_mp3": [
-  "practice/shella/flow.mp3"
- ],
- "shella_pullup_mp3": [
-  "practice/shella/pullup.mp3"
- ],
- "agony_a": [
-  "practice/yunglean/agony_a.wav"
- ],
- "agony_b": [
-  "practice/yunglean/agony_b.wav"
- ],
- "agony_c": [
-  "practice/yunglean/agony_c.wav"
- ],
- "agony_d": [
-  "practice/yunglean/agony_d.wav"
- ],
- "sk_intro": [
-  "practice/skepta/sk_intro.wav"
- ],
- "sk_hook": [
-  "practice/skepta/sk_hook.wav"
- ],
- "sk_verse1": [
-  "practice/skepta/sk_verse1.wav"
- ],
- "sk_verse3": [
-  "practice/skepta/sk_verse3.wav"
- ],
- "k808": [
-  "kits/tr808/bd0000.wav",
-  "kits/tr808/bd2500.wav",
-  "kits/tr808/bd5000.wav",
-  "kits/tr808/bd7500.wav",
-  "kits/tr808/bd1000.wav",
-  "kits/tr808/bd0025.wav",
-  "kits/tr808/bd2525.wav",
-  "kits/tr808/bd5025.wav",
-  "kits/tr808/bd7525.wav",
-  "kits/tr808/bd1025.wav",
-  "kits/tr808/bd0050.wav",
-  "kits/tr808/bd2550.wav",
-  "kits/tr808/bd5050.wav",
-  "kits/tr808/bd7550.wav",
-  "kits/tr808/bd1050.wav",
-  "kits/tr808/bd0075.wav",
-  "kits/tr808/bd2575.wav",
-  "kits/tr808/bd5075.wav",
-  "kits/tr808/bd7575.wav",
-  "kits/tr808/bd1075.wav",
-  "kits/tr808/bd0010.wav",
-  "kits/tr808/bd2510.wav",
-  "kits/tr808/bd5010.wav",
-  "kits/tr808/bd7510.wav",
-  "kits/tr808/bd1010.wav"
- ],
- "s808": [
-  "kits/tr808/sd0000.wav",
-  "kits/tr808/sd2500.wav",
-  "kits/tr808/sd5000.wav",
-  "kits/tr808/sd7500.wav",
-  "kits/tr808/sd1000.wav",
-  "kits/tr808/sd0025.wav",
-  "kits/tr808/sd2525.wav",
-  "kits/tr808/sd5025.wav",
-  "kits/tr808/sd7525.wav",
-  "kits/tr808/sd1025.wav",
-  "kits/tr808/sd0050.wav",
-  "kits/tr808/sd2550.wav",
-  "kits/tr808/sd5050.wav",
-  "kits/tr808/sd7550.wav",
-  "kits/tr808/sd1050.wav",
-  "kits/tr808/sd0075.wav",
-  "kits/tr808/sd2575.wav",
-  "kits/tr808/sd5075.wav",
-  "kits/tr808/sd7575.wav",
-  "kits/tr808/sd1075.wav",
-  "kits/tr808/sd0010.wav",
-  "kits/tr808/sd2510.wav",
-  "kits/tr808/sd5010.wav",
-  "kits/tr808/sd7510.wav",
-  "kits/tr808/sd1010.wav"
- ],
- "cy808": [
-  "kits/tr808/cy0000.wav",
-  "kits/tr808/cy2500.wav",
-  "kits/tr808/cy5000.wav",
-  "kits/tr808/cy7500.wav",
-  "kits/tr808/cy1000.wav",
-  "kits/tr808/cy0025.wav",
-  "kits/tr808/cy2525.wav",
-  "kits/tr808/cy5025.wav",
-  "kits/tr808/cy7525.wav",
-  "kits/tr808/cy1025.wav",
-  "kits/tr808/cy0050.wav",
-  "kits/tr808/cy2550.wav",
-  "kits/tr808/cy5050.wav",
-  "kits/tr808/cy7550.wav",
-  "kits/tr808/cy1050.wav",
-  "kits/tr808/cy0075.wav",
-  "kits/tr808/cy2575.wav",
-  "kits/tr808/cy5075.wav",
-  "kits/tr808/cy7575.wav",
-  "kits/tr808/cy1075.wav",
-  "kits/tr808/cy0010.wav",
-  "kits/tr808/cy2510.wav",
-  "kits/tr808/cy5010.wav",
-  "kits/tr808/cy7510.wav",
-  "kits/tr808/cy1010.wav"
- ],
- "hc808": [
-  "kits/tr808/hc00.wav",
-  "kits/tr808/hc10.wav",
-  "kits/tr808/hc25.wav",
-  "kits/tr808/hc50.wav",
-  "kits/tr808/hc75.wav"
- ],
- "mc808": [
-  "kits/tr808/mc00.wav",
-  "kits/tr808/mc10.wav",
-  "kits/tr808/mc25.wav",
-  "kits/tr808/mc50.wav",
-  "kits/tr808/mc75.wav"
- ],
- "lc808": [
-  "kits/tr808/lc00.wav",
-  "kits/tr808/lc10.wav",
-  "kits/tr808/lc25.wav",
-  "kits/tr808/lc50.wav",
-  "kits/tr808/lc75.wav"
- ],
- "ht808": [
-  "kits/tr808/ht00.wav",
-  "kits/tr808/ht10.wav",
-  "kits/tr808/ht25.wav",
-  "kits/tr808/ht50.wav",
-  "kits/tr808/ht75.wav"
- ],
- "mt808": [
-  "kits/tr808/mt00.wav",
-  "kits/tr808/mt10.wav",
-  "kits/tr808/mt25.wav",
-  "kits/tr808/mt50.wav",
-  "kits/tr808/mt75.wav"
- ],
- "lt808": [
-  "kits/tr808/lt00.wav",
-  "kits/tr808/lt10.wav",
-  "kits/tr808/lt25.wav",
-  "kits/tr808/lt50.wav",
-  "kits/tr808/lt75.wav"
- ],
- "oh808": [
-  "kits/tr808/oh00.wav",
-  "kits/tr808/oh10.wav",
-  "kits/tr808/oh25.wav",
-  "kits/tr808/oh50.wav",
-  "kits/tr808/oh75.wav"
- ],
- "ch808": [
-  "kits/tr808/ch.wav"
- ],
- "cp808": [
-  "kits/tr808/cp.wav"
- ],
- "cb808": [
-  "kits/tr808/cb.wav"
- ],
- "cl808": [
-  "kits/tr808/cl.wav"
- ],
- "rs808": [
-  "kits/tr808/rs.wav"
- ],
- "ma808": [
-  "kits/tr808/ma.wav"
- ],
- "sub808": [
-  "kits/sub808/hard-trap-808-bass-dist.wav",
-  "kits/sub808/hard-trap-808-bass-sub.wav",
-  "kits/sub808/hard-trap-808-dist-long.wav",
-  "kits/sub808/bounce-808-bass-long.wav",
-  "kits/sub808/bounce-808-bass-punch.wav",
-  "kits/sub808/bounce-808-round-long.wav",
-  "kits/sub808/soulful-vintage-808-bass-lofi.wav",
-  "kits/sub808/soulful-vintage-808-lofi.wav"
- ],
- "xkick": [
-  "kits/xkick/606_classic.wav",
-  "kits/xkick/606_varied_1.wav",
-  "kits/xkick/707_classic.wav",
-  "kits/xkick/707_varied_1.wav",
-  "kits/xkick/808_classic.wav",
-  "kits/xkick/808_varied_1.wav",
-  "kits/xkick/909_classic.wav",
-  "kits/xkick/909_varied_1.wav",
-  "kits/xkick/deephouse_classic.wav",
-  "kits/xkick/deephouse_varied_1.wav",
-  "kits/xkick/deephouse_varied_2.wav",
-  "kits/xkick/experimental_classic.wav",
-  "kits/xkick/experimental_varied_1.wav",
-  "kits/xkick/videogame_kick_1.wav",
-  "kits/xkick/videogame_kick_2.wav"
- ],
- "elk_verse": [
-  "practice/loukeman/elk_verse.wav"
- ],
- "elk_drop": [
-  "practice/loukeman/elk_drop.wav"
- ],
- "elk_calm": [
-  "practice/loukeman/elk_calm.wav"
- ],
- "elk_outro": [
-  "practice/loukeman/elk_outro.wav"
- ]
+  "_base": "https://raw.githubusercontent.com/oscarbeamish/samples/main/",
+  "heartbeat": [
+    "heartbeat/heartbeat1.wav",
+    "heartbeat/heartbeat2.wav"
+  ],
+  "nanou2": [
+    "nanou2/intro.wav"
+  ],
+  "break": [
+    "breaks/break01.mp3",
+    "breaks/break02.mp3",
+    "breaks/break03.mp3",
+    "breaks/break04.mp3",
+    "breaks/break05.mp3",
+    "breaks/break06.mp3",
+    "breaks/break07.mp3",
+    "breaks/break08.mp3",
+    "breaks/break09.mp3",
+    "breaks/break10.mp3",
+    "breaks/break11.mp3",
+    "breaks/break12.mp3",
+    "breaks/break13.mp3",
+    "breaks/break14.mp3",
+    "breaks/break15.mp3",
+    "breaks/break16.mp3",
+    "breaks/break17.mp3",
+    "breaks/break18.mp3",
+    "breaks/break19.mp3",
+    "breaks/break20.mp3",
+    "breaks/break21.mp3",
+    "breaks/break22.mp3",
+    "breaks/break23.mp3",
+    "breaks/break24.mp3",
+    "breaks/break25.mp3",
+    "breaks/break26.mp3",
+    "breaks/break27.mp3",
+    "breaks/break28.mp3",
+    "breaks/break29.mp3",
+    "breaks/break30.mp3",
+    "breaks/break31.mp3",
+    "breaks/break32.mp3",
+    "breaks/break33.mp3",
+    "breaks/break34.mp3",
+    "breaks/break35.mp3",
+    "breaks/break36.mp3",
+    "breaks/break37.mp3",
+    "breaks/break38.mp3",
+    "breaks/break39.mp3",
+    "breaks/break40.mp3",
+    "breaks/break41.mp3",
+    "breaks/break42.mp3",
+    "breaks/break43.mp3",
+    "breaks/break44.mp3",
+    "breaks/break45.mp3",
+    "breaks/break46.mp3",
+    "breaks/break47.mp3",
+    "breaks/break48.mp3",
+    "breaks/break49.mp3",
+    "breaks/break50.mp3",
+    "breaks/break51.mp3",
+    "breaks/break52.mp3",
+    "breaks/break53.mp3",
+    "breaks/break54.mp3",
+    "breaks/break55.mp3",
+    "breaks/break56.mp3",
+    "breaks/break57.mp3",
+    "breaks/break58.mp3",
+    "breaks/break59.mp3",
+    "breaks/break60.mp3",
+    "breaks/break61.mp3",
+    "breaks/break62.mp3",
+    "breaks/break63.mp3",
+    "breaks/break64.mp3",
+    "breaks/break65.mp3",
+    "breaks/break66.mp3",
+    "breaks/break67.mp3",
+    "breaks/break68.mp3",
+    "breaks/break69.mp3",
+    "breaks/break70.mp3",
+    "breaks/break71.mp3"
+  ],
+  "tops": [
+    "drums/rolling_tops.mp3",
+    "drums/swung_tops.mp3"
+  ],
+  "stab": [
+    "fx/stab.mp3"
+  ],
+  "atmosphere": [
+    "fx/atmosphere.mp3"
+  ],
+  "shella": [
+    "practice/shella/00_00m18.9s.wav",
+    "practice/shella/01_00m27.0s.wav",
+    "practice/shella/02_00m35.4s.wav"
+  ],
+  "shella_flow": [
+    "practice/shella/flow.wav"
+  ],
+  "shella_pullup": [
+    "practice/shella/pullup.wav"
+  ],
+  "shella_flow_mp3": [
+    "practice/shella/flow.mp3"
+  ],
+  "shella_pullup_mp3": [
+    "practice/shella/pullup.mp3"
+  ],
+  "agony_a": [
+    "practice/yunglean/agony_a.wav"
+  ],
+  "agony_b": [
+    "practice/yunglean/agony_b.wav"
+  ],
+  "agony_c": [
+    "practice/yunglean/agony_c.wav"
+  ],
+  "agony_d": [
+    "practice/yunglean/agony_d.wav"
+  ],
+  "sk_intro": [
+    "practice/skepta/sk_intro.wav"
+  ],
+  "sk_hook": [
+    "practice/skepta/sk_hook.wav"
+  ],
+  "sk_verse1": [
+    "practice/skepta/sk_verse1.wav"
+  ],
+  "sk_verse3": [
+    "practice/skepta/sk_verse3.wav"
+  ],
+  "k808": [
+    "kits/tr808/bd0000.wav",
+    "kits/tr808/bd2500.wav",
+    "kits/tr808/bd5000.wav",
+    "kits/tr808/bd7500.wav",
+    "kits/tr808/bd1000.wav",
+    "kits/tr808/bd0025.wav",
+    "kits/tr808/bd2525.wav",
+    "kits/tr808/bd5025.wav",
+    "kits/tr808/bd7525.wav",
+    "kits/tr808/bd1025.wav",
+    "kits/tr808/bd0050.wav",
+    "kits/tr808/bd2550.wav",
+    "kits/tr808/bd5050.wav",
+    "kits/tr808/bd7550.wav",
+    "kits/tr808/bd1050.wav",
+    "kits/tr808/bd0075.wav",
+    "kits/tr808/bd2575.wav",
+    "kits/tr808/bd5075.wav",
+    "kits/tr808/bd7575.wav",
+    "kits/tr808/bd1075.wav",
+    "kits/tr808/bd0010.wav",
+    "kits/tr808/bd2510.wav",
+    "kits/tr808/bd5010.wav",
+    "kits/tr808/bd7510.wav",
+    "kits/tr808/bd1010.wav"
+  ],
+  "s808": [
+    "kits/tr808/sd0000.wav",
+    "kits/tr808/sd2500.wav",
+    "kits/tr808/sd5000.wav",
+    "kits/tr808/sd7500.wav",
+    "kits/tr808/sd1000.wav",
+    "kits/tr808/sd0025.wav",
+    "kits/tr808/sd2525.wav",
+    "kits/tr808/sd5025.wav",
+    "kits/tr808/sd7525.wav",
+    "kits/tr808/sd1025.wav",
+    "kits/tr808/sd0050.wav",
+    "kits/tr808/sd2550.wav",
+    "kits/tr808/sd5050.wav",
+    "kits/tr808/sd7550.wav",
+    "kits/tr808/sd1050.wav",
+    "kits/tr808/sd0075.wav",
+    "kits/tr808/sd2575.wav",
+    "kits/tr808/sd5075.wav",
+    "kits/tr808/sd7575.wav",
+    "kits/tr808/sd1075.wav",
+    "kits/tr808/sd0010.wav",
+    "kits/tr808/sd2510.wav",
+    "kits/tr808/sd5010.wav",
+    "kits/tr808/sd7510.wav",
+    "kits/tr808/sd1010.wav"
+  ],
+  "cy808": [
+    "kits/tr808/cy0000.wav",
+    "kits/tr808/cy2500.wav",
+    "kits/tr808/cy5000.wav",
+    "kits/tr808/cy7500.wav",
+    "kits/tr808/cy1000.wav",
+    "kits/tr808/cy0025.wav",
+    "kits/tr808/cy2525.wav",
+    "kits/tr808/cy5025.wav",
+    "kits/tr808/cy7525.wav",
+    "kits/tr808/cy1025.wav",
+    "kits/tr808/cy0050.wav",
+    "kits/tr808/cy2550.wav",
+    "kits/tr808/cy5050.wav",
+    "kits/tr808/cy7550.wav",
+    "kits/tr808/cy1050.wav",
+    "kits/tr808/cy0075.wav",
+    "kits/tr808/cy2575.wav",
+    "kits/tr808/cy5075.wav",
+    "kits/tr808/cy7575.wav",
+    "kits/tr808/cy1075.wav",
+    "kits/tr808/cy0010.wav",
+    "kits/tr808/cy2510.wav",
+    "kits/tr808/cy5010.wav",
+    "kits/tr808/cy7510.wav",
+    "kits/tr808/cy1010.wav"
+  ],
+  "hc808": [
+    "kits/tr808/hc00.wav",
+    "kits/tr808/hc10.wav",
+    "kits/tr808/hc25.wav",
+    "kits/tr808/hc50.wav",
+    "kits/tr808/hc75.wav"
+  ],
+  "mc808": [
+    "kits/tr808/mc00.wav",
+    "kits/tr808/mc10.wav",
+    "kits/tr808/mc25.wav",
+    "kits/tr808/mc50.wav",
+    "kits/tr808/mc75.wav"
+  ],
+  "lc808": [
+    "kits/tr808/lc00.wav",
+    "kits/tr808/lc10.wav",
+    "kits/tr808/lc25.wav",
+    "kits/tr808/lc50.wav",
+    "kits/tr808/lc75.wav"
+  ],
+  "ht808": [
+    "kits/tr808/ht00.wav",
+    "kits/tr808/ht10.wav",
+    "kits/tr808/ht25.wav",
+    "kits/tr808/ht50.wav",
+    "kits/tr808/ht75.wav"
+  ],
+  "mt808": [
+    "kits/tr808/mt00.wav",
+    "kits/tr808/mt10.wav",
+    "kits/tr808/mt25.wav",
+    "kits/tr808/mt50.wav",
+    "kits/tr808/mt75.wav"
+  ],
+  "lt808": [
+    "kits/tr808/lt00.wav",
+    "kits/tr808/lt10.wav",
+    "kits/tr808/lt25.wav",
+    "kits/tr808/lt50.wav",
+    "kits/tr808/lt75.wav"
+  ],
+  "oh808": [
+    "kits/tr808/oh00.wav",
+    "kits/tr808/oh10.wav",
+    "kits/tr808/oh25.wav",
+    "kits/tr808/oh50.wav",
+    "kits/tr808/oh75.wav"
+  ],
+  "ch808": [
+    "kits/tr808/ch.wav"
+  ],
+  "cp808": [
+    "kits/tr808/cp.wav"
+  ],
+  "cb808": [
+    "kits/tr808/cb.wav"
+  ],
+  "cl808": [
+    "kits/tr808/cl.wav"
+  ],
+  "rs808": [
+    "kits/tr808/rs.wav"
+  ],
+  "ma808": [
+    "kits/tr808/ma.wav"
+  ],
+  "sub808": [
+    "kits/sub808/hard-trap-808-bass-dist.wav",
+    "kits/sub808/hard-trap-808-bass-sub.wav",
+    "kits/sub808/hard-trap-808-dist-long.wav",
+    "kits/sub808/bounce-808-bass-long.wav",
+    "kits/sub808/bounce-808-bass-punch.wav",
+    "kits/sub808/bounce-808-round-long.wav",
+    "kits/sub808/soulful-vintage-808-bass-lofi.wav",
+    "kits/sub808/soulful-vintage-808-lofi.wav"
+  ],
+  "xkick": [
+    "kits/xkick/606_classic.wav",
+    "kits/xkick/606_varied_1.wav",
+    "kits/xkick/707_classic.wav",
+    "kits/xkick/707_varied_1.wav",
+    "kits/xkick/808_classic.wav",
+    "kits/xkick/808_varied_1.wav",
+    "kits/xkick/909_classic.wav",
+    "kits/xkick/909_varied_1.wav",
+    "kits/xkick/deephouse_classic.wav",
+    "kits/xkick/deephouse_varied_1.wav",
+    "kits/xkick/deephouse_varied_2.wav",
+    "kits/xkick/experimental_classic.wav",
+    "kits/xkick/experimental_varied_1.wav",
+    "kits/xkick/videogame_kick_1.wav",
+    "kits/xkick/videogame_kick_2.wav"
+  ],
+  "elk_verse": [
+    "practice/loukeman/elk_verse.wav"
+  ],
+  "elk_drop": [
+    "practice/loukeman/elk_drop.wav"
+  ],
+  "elk_calm": [
+    "practice/loukeman/elk_calm.wav"
+  ],
+  "elk_outro": [
+    "practice/loukeman/elk_outro.wav"
+  ],
+  "gewalt": [
+    "practice/brutalismus/gewalt_1.wav"
+  ],
+  "gewaltig_tts": [
+    "vox/tts/gewaltig_david.wav"
+  ]
 }
