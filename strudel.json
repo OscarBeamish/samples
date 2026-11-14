@@ -328,5 +328,17 @@
     "kits/gabber/penta1.wav",
     "kits/gabber/penta2.wav",
     "kits/gabber/penta3.wav"
+  ],
+  "utopia_vox": [
+    "practice/utopia/vox_a3.wav",
+    "practice/utopia/vox_as3.wav",
+    "practice/utopia/vox_d5.wav",
+    "practice/utopia/vox_e5.wav",
+    "practice/utopia/vox_g5.wav",
+    "practice/utopia/vox_g2.wav"
+  ],
+  "utopia_chaos": [
+    "practice/utopia/chaos_1.wav",
+    "practice/utopia/chaos_2.wav"
   ]
 }
