@@ -323,5 +323,10 @@
   ],
   "gewaltig_tts": [
     "vox/tts/gewaltig_david.wav"
+  ],
+  "gkick": [
+    "kits/gabber/penta1.wav",
+    "kits/gabber/penta2.wav",
+    "kits/gabber/penta3.wav"
   ]
 }
