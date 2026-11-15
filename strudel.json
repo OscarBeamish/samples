@@ -340,5 +340,12 @@
   "utopia_chaos": [
     "practice/utopia/chaos_1.wav",
     "practice/utopia/chaos_2.wav"
+  ],
+  "takecare": [
+    "practice/takecare/eb.wav",
+    "practice/takecare/cm.wav",
+    "practice/takecare/gsus.wav",
+    "practice/takecare/bb.wav",
+    "practice/takecare/intro.wav"
   ]
 }
