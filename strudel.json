@@ -347,5 +347,11 @@
     "practice/takecare/gsus.wav",
     "practice/takecare/bb.wav",
     "practice/takecare/intro.wav"
+  ],
+  "yawn": [
+    "practice/yawn/am7.wav",
+    "practice/yawn/g.wav",
+    "practice/yawn/em7.wav",
+    "practice/yawn/dmaj7.wav"
   ]
 }
