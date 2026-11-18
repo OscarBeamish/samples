@@ -364,5 +364,16 @@
     "practice/dread/block5.wav",
     "practice/dread/chord.wav",
     "practice/dread/drone.wav"
+  ],
+  "location": [
+    "practice/location/loop.wav",
+    "practice/location/tag.wav",
+    "practice/location/yeah1.wav",
+    "practice/location/yeah2.wav",
+    "practice/location/line.wav",
+    "practice/location/perc.wav",
+    "practice/location/roll.wav",
+    "practice/location/glide.wav",
+    "practice/location/f808.wav"
   ]
 }
