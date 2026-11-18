@@ -388,5 +388,11 @@
     "synth/dread7_hold_a.wav",
     "synth/dread7_hold_b.wav",
     "synth/dread7_drone.wav"
+  ],
+  "location7": [
+    "practice/location/loop7s.wav"
+  ],
+  "locsynth7": [
+    "synth/location_loop3_7s.wav"
   ]
 }

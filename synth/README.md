@@ -24,3 +24,5 @@ The same resynthesis as dsyn at 137.14 BPM (one bar = 1.75 s, so 4 bars = 7.000 
 
 ### dread7_hold_a / dread7_hold_b (dsyn7:0-1 now)
 The chord held steady for its 5 beats (the record's level is flat within ~1 dB across each beat), no gallop dips and no per-beat pump: the gallop on the record is a separate low thump on each step (its drum stem: ~110 -> 70 Hz in 25 ms, -15 dB in 50 ms, 9.4 dB under the chord), played by Strudel in tracks/dread/loop7.strudel.
+
+`locsynth7` = `location_loop3_7s.wav`: location_loop3 time-stretched (pitch kept) to 7.000 s (2 bars at 68.57 BPM). Ours, CC0.

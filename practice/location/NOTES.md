@@ -16,3 +16,5 @@ first downbeat 0.023 s, one bar = 3.8095 s. Cut from the first 60 s (mix and Dem
 | 8 | `f808.wav` | 38.119-39.300 s | 808: G#1 -> F#1 glide |
 
 `location:0..8` in strudel.json.
+
+`location7` = `loop7s.wav`: the loop time-stretched (pitch kept) from 7.619 s to 7.000 s, 2 bars at 68.57 BPM, for a 7-second TouchDesigner loop. Practice only.
