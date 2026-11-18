@@ -375,5 +375,8 @@
     "practice/location/roll.wav",
     "practice/location/glide.wav",
     "practice/location/f808.wav"
+  ],
+  "locsynth": [
+    "synth/location_loop.wav"
   ]
 }
