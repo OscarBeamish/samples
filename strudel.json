@@ -358,5 +358,11 @@
     "practice/yawn/start1.wav",
     "practice/yawn/start2.wav",
     "practice/yawn/start3.wav"
+  ],
+  "dread": [
+    "practice/dread/block1.wav",
+    "practice/dread/block5.wav",
+    "practice/dread/chord.wav",
+    "practice/dread/drone.wav"
   ]
 }
