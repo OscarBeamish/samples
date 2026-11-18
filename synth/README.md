@@ -10,3 +10,11 @@ the remake videos say the same: "pitch up the sample 100 cents"). Its voicings, 
 chords: F#2 C#3 A#3 D#4 (+C#6) | E2 B2 D#3 E3 F#3 B3 D#4 | D#2 A#2 F#3 C#4 G#4 (+F#6), with the measured relative levels; a 5.9 Hz warble
 (±14 cents per voice, a ±6 cent chorus pair); then the long-term spectrum matched to the record's loop with a 1/6-octave linear-phase EQ.
 Synthesised; no sample audio inside (the EQ curve is a smoothed spectrum, not audio).
+
+## dread_block_a / dread_block_b / dread_drone (`dsyn:0-2`) — ours, CC0
+Synthesised in Python from measurements of A. G. Cook's "Dread" at 2:05 (stems; no sample audio inside): the "chord" is one Bb2 (116.7 Hz)
+saw, 3 voices ±8 cents, with a resonant peak at its 8th harmonic (933 Hz, the loudest partial on the record), over an Eb2 (77.8 Hz) that dips
+on every beat (the 2.33 Hz sidebands); the gallop is a shallow gate (quick attack, ~4-5 dB sag, x x . x for 5 beats, then 3 beats off;
+2 bars at 140 BPM). Block b is the brighter one (blocks 5-8 of the record, the filter more open). The drone is a 3-voice cluster at a
+quarter-flat B (476 / 490 / 506 Hz on the record), 4 bars high then 4 bars an octave down. Each part's long-term spectrum is matched to its
+stem with a 1/6-octave linear-phase EQ.

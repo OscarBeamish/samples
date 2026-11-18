@@ -378,5 +378,10 @@
   ],
   "locsynth": [
     "synth/location_loop3.wav"
+  ],
+  "dsyn": [
+    "synth/dread_block_a.wav",
+    "synth/dread_block_b.wav",
+    "synth/dread_drone.wav"
   ]
 }
