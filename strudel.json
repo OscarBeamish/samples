@@ -353,5 +353,10 @@
     "practice/yawn/g.wav",
     "practice/yawn/em7.wav",
     "practice/yawn/dmaj7.wav"
+  ],
+  "ystart": [
+    "practice/yawn/start1.wav",
+    "practice/yawn/start2.wav",
+    "practice/yawn/start3.wav"
   ]
 }

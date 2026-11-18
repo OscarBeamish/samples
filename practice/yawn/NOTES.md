@@ -11,3 +11,6 @@ no drums or bass) at Yawn's own downbeats: 102.1 BPM, first downbeat 0.116 s, on
 | 3 | `dmaj7.wav` | bar 36 (82.39 s) | 2.13 s | D major 7 (D F# A C#), bar 36 |
 
 The song's loop is Am7 - G - Em7 - Dmaj7 (D major with a borrowed C). `yawn:0..3` in strudel.json.
+
+## ystart (`ystart:0..2`)
+Yawn's first three bars from the full mix (the intro: the bouncing arpeggio over a held Gmaj9 pad, no drums or bass yet), time-stretched from 102.1 to 112.5 BPM, one nautilus bar (2.133 s) each, 5 ms fades. Practice only.
