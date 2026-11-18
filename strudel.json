@@ -383,5 +383,10 @@
     "synth/dread_block_a.wav",
     "synth/dread_block_b.wav",
     "synth/dread_drone.wav"
+  ],
+  "dsyn7": [
+    "synth/dread7_block_a.wav",
+    "synth/dread7_block_b.wav",
+    "synth/dread7_drone.wav"
   ]
 }

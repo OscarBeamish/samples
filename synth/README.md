@@ -18,3 +18,6 @@ on every beat (the 2.33 Hz sidebands); the gallop is a shallow gate (quick attac
 2 bars at 140 BPM). Block b is the brighter one (blocks 5-8 of the record, the filter more open). The drone is a 3-voice cluster at a
 quarter-flat B (476 / 490 / 506 Hz on the record), 4 bars high then 4 bars an octave down. Each part's long-term spectrum is matched to its
 stem with a 1/6-octave linear-phase EQ.
+
+## dread7_* (`dsyn7:0-2`) — ours, CC0
+The same resynthesis as dsyn at 137.14 BPM (one bar = 1.75 s, so 4 bars = 7.000 s) for a 7-second TouchDesigner loop; the drone is 4 bars with no fades so it loops seamlessly.
