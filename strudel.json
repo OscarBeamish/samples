@@ -394,5 +394,11 @@
   ],
   "locsynth7": [
     "synth/location_loop3_7s.wav"
+  ],
+  "dealer": [
+    "practice/dealer/musicA.wav",
+    "practice/dealer/musicB.wav",
+    "practice/dealer/stabA.wav",
+    "practice/dealer/stabB.wav"
   ]
 }
