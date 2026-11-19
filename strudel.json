@@ -400,5 +400,10 @@
     "practice/dealer/musicB.wav",
     "practice/dealer/stabA.wav",
     "practice/dealer/stabB.wav"
+  ],
+  "wferrari": [
+    "practice/whiteferrari/gtr.wav",
+    "practice/whiteferrari/vox.wav",
+    "practice/whiteferrari/full.wav"
   ]
 }
