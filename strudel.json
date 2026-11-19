@@ -405,5 +405,11 @@
     "practice/whiteferrari/gtr.wav",
     "practice/whiteferrari/vox.wav",
     "practice/whiteferrari/full.wav"
+  ],
+  "dawn": [
+    "nature/dawn_chorus.mp3"
+  ],
+  "garden": [
+    "nature/garden_birds.mp3"
   ]
 }
