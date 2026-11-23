@@ -414,5 +414,12 @@
   ],
   "wt_yosemite": [
     "synth/wt_yosemite48.wav"
-  ]
+  ],
+  "ybass": {
+    "c#1": "synth/ybass_cs1.wav",
+    "f1": "synth/ybass_f1.wav",
+    "g#1": "synth/ybass_gs1.wav",
+    "c2": "synth/ybass_c2.wav",
+    "f2": "synth/ybass_f2.wav"
+  }
 }
