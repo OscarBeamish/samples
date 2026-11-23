@@ -411,5 +411,8 @@
   ],
   "garden": [
     "nature/garden_birds.mp3"
+  ],
+  "wt_yosemite": [
+    "synth/wt_yosemite.wav"
   ]
 }
