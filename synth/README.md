@@ -29,3 +29,5 @@ The chord held steady for its 5 beats (the record's level is flat within ~1 dB a
 
 ## agony_piano7.wav — ours (Salamander Grand Piano, CC-BY 3.0, Alexander Holm)
 Our own render, made in Strudel with its built-in "piano" (the Salamander Grand Piano samples by Alexander Holm, CC-BY 3.0: credit him if you post it). 2 bars at 102.86 BPM (4.667 s, one bar = 7/3 s) for the 7-second TouchDesigner loop in strudel-studio tracks/agony-glitch: the B | C#m → E chords of Yung Lean's "Agony" as left-hand block chords in 8ths, with our own right-hand line (not the record's melody), a 12-cent detuned double and a little room. No audio from the record inside. Source: tracks/agony-glitch/piano7-source.strudel; peak normalised to -1 dBFS, 48 kHz 16-bit stereo.
+
+- `agony_chords7.wav`: the same 2-bar render as `agony_piano7.wav` with the right hand muted, chords only (B, C#m to E) for the Agony glitch loop (strudel-studio `tracks/agony-glitch/`). Our own Strudel render; the piano is Salamander Grand Piano by Alexander Holm, CC-BY 3.0.
