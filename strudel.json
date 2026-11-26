@@ -421,5 +421,74 @@
     "g#1": "synth/ybass_gs1.wav",
     "c2": "synth/ybass_c2.wav",
     "f2": "synth/ybass_f2.wav"
+  },
+  "vln": {
+    "a3": "orch/vln/a3.wav",
+    "b3": "orch/vln/b3.wav",
+    "d4": "orch/vln/d4.wav",
+    "f#4": "orch/vln/fs4.wav",
+    "a4": "orch/vln/a4.wav",
+    "c5": "orch/vln/c5.wav",
+    "e5": "orch/vln/e5.wav",
+    "g5": "orch/vln/g5.wav",
+    "b5": "orch/vln/b5.wav"
+  },
+  "vlntrem": {
+    "b3": "orch/vlntrem/b3.wav",
+    "d4": "orch/vlntrem/d4.wav",
+    "f#4": "orch/vlntrem/fs4.wav",
+    "a4": "orch/vlntrem/a4.wav",
+    "c5": "orch/vlntrem/c5.wav",
+    "e5": "orch/vlntrem/e5.wav",
+    "g5": "orch/vlntrem/g5.wav",
+    "b5": "orch/vlntrem/b5.wav"
+  },
+  "vla": {
+    "d3": "orch/vla/d3.wav",
+    "e3": "orch/vla/e3.wav",
+    "g3": "orch/vla/g3.wav",
+    "b3": "orch/vla/b3.wav",
+    "d4": "orch/vla/d4.wav",
+    "f4": "orch/vla/f4.wav",
+    "a4": "orch/vla/a4.wav"
+  },
+  "vc": {
+    "c2": "orch/vc/c2.wav",
+    "e2": "orch/vc/e2.wav",
+    "g2": "orch/vc/g2.wav",
+    "b2": "orch/vc/b2.wav",
+    "d3": "orch/vc/d3.wav",
+    "f3": "orch/vc/f3.wav",
+    "a3": "orch/vc/a3.wav",
+    "c4": "orch/vc/c4.wav",
+    "e4": "orch/vc/e4.wav"
+  },
+  "vctrem": {
+    "e2": "orch/vctrem/e2.wav",
+    "g2": "orch/vctrem/g2.wav",
+    "b2": "orch/vctrem/b2.wav",
+    "d3": "orch/vctrem/d3.wav",
+    "f3": "orch/vctrem/f3.wav",
+    "a3": "orch/vctrem/a3.wav",
+    "c4": "orch/vctrem/c4.wav",
+    "e4": "orch/vctrem/e4.wav"
+  },
+  "vlnsolo": {
+    "a4": "orch/vlnsolo/a4.wav",
+    "c5": "orch/vlnsolo/c5.wav",
+    "e5": "orch/vlnsolo/e5.wav",
+    "g5": "orch/vlnsolo/g5.wav",
+    "a5": "orch/vlnsolo/a5.wav",
+    "c6": "orch/vlnsolo/c6.wav",
+    "e6": "orch/vlnsolo/e6.wav"
+  },
+  "cb": {
+    "f#1": "orch/cb/fs1.wav",
+    "a#1": "orch/cb/as1.wav",
+    "c2": "orch/cb/c2.wav",
+    "d2": "orch/cb/d2.wav",
+    "e2": "orch/cb/e2.wav",
+    "f#2": "orch/cb/fs2.wav",
+    "a2": "orch/cb/a2.wav"
   }
 }

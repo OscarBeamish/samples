@@ -6,6 +6,7 @@ A small collection of audio samples I use in my Strudel patterns. Nothing fancy,
 
 - **heartbeat/** - Stolen sample from DJDave for learning
 - **nanou2/** - Aphex twin sample
+- **orch/** - real orchestral strings (violin, viola, cello sections sustained and tremolo, solo violin, contrabass) from VSCO 2 CE, CC0: `vln vlntrem vla vc vctrem vlnsolo cb`, keyed by true pitch (see orch/README.md)
 - More stuff as I add it
 
 ## Using These Samples
