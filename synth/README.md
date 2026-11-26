@@ -26,3 +26,6 @@ The same resynthesis as dsyn at 137.14 BPM (one bar = 1.75 s, so 4 bars = 7.000 
 The chord held steady for its 5 beats (the record's level is flat within ~1 dB across each beat), no gallop dips and no per-beat pump: the gallop on the record is a separate low thump on each step (its drum stem: ~110 -> 70 Hz in 25 ms, -15 dB in 50 ms, 9.4 dB under the chord), played by Strudel in tracks/dread/loop7.strudel.
 
 `locsynth7` = `location_loop3_7s.wav`: location_loop3 time-stretched (pitch kept) to 7.000 s (2 bars at 68.57 BPM). Ours, CC0.
+
+## agony_piano7.wav — ours (Salamander Grand Piano, CC-BY 3.0, Alexander Holm)
+Our own render, made in Strudel with its built-in "piano" (the Salamander Grand Piano samples by Alexander Holm, CC-BY 3.0: credit him if you post it). 2 bars at 102.86 BPM (4.667 s, one bar = 7/3 s) for the 7-second TouchDesigner loop in strudel-studio tracks/agony-glitch: the B | C#m → E chords of Yung Lean's "Agony" as left-hand block chords in 8ths, with our own right-hand line (not the record's melody), a 12-cent detuned double and a little room. No audio from the record inside. Source: tracks/agony-glitch/piano7-source.strudel; peak normalised to -1 dBFS, 48 kHz 16-bit stereo.
